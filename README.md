@@ -48,3 +48,12 @@ The system is built on a modular architecture:
 - `numpy`
 - `requests`
 - `beautifulsoup4`
+
+## 🐳 Docker Support
+
+Run the tool effortlessly using Docker:
+
+`ash
+docker compose build
+docker compose run analyzer --help
+`
