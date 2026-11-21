@@ -1,5 +1,7 @@
 # Global Data Intelligence Platform
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A comprehensive extraction and analysis engine for global population opinion, psychology, and social trends.
 
 ## Features
